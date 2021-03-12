@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "696d0250d79c5722",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a30ff470c1cc00c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fisica/Eletricidade e circuitos digitais.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10bbe3268a88f85c",
+    "type": "split",
+    "children": [
+      {
+        "id": "531fcaf56f351d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "143f63da4d7735f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e73cd8932311def",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324
+  },
+  "right": {
+    "id": "7d163591a3ca8cc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "26500c22e4d509eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1f660c639ad289f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fisica/Eletricidade e circuitos digitais.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60542456eb297879",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Fisica/Eletricidade e circuitos digitais.md",
+    "Lógica/Calculo Lambda Não Tipado.md",
+    "Lógica/Leis de De Morgan.md",
+    "Lógica/Teoria dos conjuntos.md",
+    "Untitled.md",
+    "Lógica/Propriedades.md",
+    "Lógica/Cálculo Lambda Simplesmente tipado.md",
+    "Hardware/Latch.md",
+    "Hardware/Atmega 329P.md",
+    "Hardware/Arquiteturas.md"
+  ]
+}

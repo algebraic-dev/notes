@@ -1,0 +1,2 @@
+# Lógica de primeira ordem
+É um sistema de lógica formal que usa Qualificadores([[Lógica de primeira ordem]]) e permite o uso de sentenças que tem variáveis. E é fundamentado pela [[Lógica proposicional]]
