@@ -7,3 +7,6 @@ Dependendo da ultima camada de eletrons do material, menor a F.E.M para retirar 
 ## Convenção do fluxo elétrico
 - Dos eletrons =    - para +
 - Convencional = + para -
+
+## Kirchhoof
+Ponto que se divide em 3 ou mais é chamado de Nó
