@@ -28,7 +28,7 @@
 - **Bicondicional**: $\leftrightarrow$ = Caso os dois sejam verdadeiros ou caso os dois sejam falsos a bicondicional é verdadeira.
 	-  $P \leftrightarrow Q \equiv \lnot(P \oplus Q)$ 
 - **Sheffer's Stroke / Nand:**  $P|Q$ Um dos dois é falso 
-
+- **Consequencia sitantica:** $\vdash$
 ## Interconversão de operadores
 
 1. $P \leftrightarrow Q \equiv \lnot (P \oplus Q)$ 
@@ -51,3 +51,65 @@
 - *Tautologia:* Só é uma tautologia se todas as interpretações de uma formula é verdadeira ex: $P \lor \lnot P$
 - *Contradiçao*: Só é uma contradição se todas interpretadores de uma formula são falsas ex: $P \land \lnot P$
 - *Contingência*: Pelo menos um verdadeiro e um falso $P \implies Q$
+
+## Regras de inferencia
+
+-	Modus ponens
+	1. $P \implies Q$
+	2. $P$
+	3. $\therefore Q$ 
+- Condicionalização
+	1. $Q$
+	2. $\therefore P \implies Q$
+-	Eliminação 
+	1. $P \land Q$
+	2. $P$
+	3. $Q$
+- Introdução da conjunção
+	1. $P$
+	2. $Q$
+	3. $\therefore P \land Q$
+- Silogismo disjuntivo (Modus tollendo ponens)
+	1. $P \lor Q$
+	2. $\lnot P$
+	3. $\therefore Q$
+- Introdução da disjunção
+	1. $P$
+	2. $\therefore P \lor Q$
+- Dupla negação
+	1. $\lnot \lnot P$
+	2. $P$
+- Reductio at absurdum
+	1. $P \implies \bot$ tipo $(Q \land \lnot Q)$
+	2. $\lnot P$
+- Definição da bi-condicional
+	1. $P \leftrightarrow Q$
+	2. $P \implies Q$
+	3. $Q \implies Q$
+## Derivações
+- Prova condicional
+	1. P
+	2. ...
+	3. Q
+	4. $P \implies Q$
+- Silogismo hipotético (Transitividade)
+	1. $P \implies Q$
+	2. $Q \implies R$
+	3. $\therefore P \implies R$
+- Modus Tollens
+	1. $P \implies Q$
+	2. $\lnot Q$
+	3. $\therefore \lnot P$
+- Contraposição
+	1. $A \implies B$
+	2. $\lnot B \implies \lnot A$
+
+Outras: [[Leis de De Morgan]]
+
+## Propriedades
+
+- Distributiva
+	- $(\alpha \lor \beta) \land \gamma$
+	- $(\alpha \lor \gamma) \lor (\beta \lor \gamma)$
+- Comutativa: $(\beta \lor \gamma) \equiv (\gamma \lor \beta)$
+- Associativa $\alpha \lor (\beta \lor \gamma) \equiv (\alpha \lor \beta) \lor \gamma$
