@@ -1,3 +1,3 @@
 # Big O
- - Contamos operações signitificavas
- - 
+ - Contamos operações signitificavas e descreve comportamento limitante
+ 

@@ -2,7 +2,7 @@
 É um sistema de lógica formal que utiliza *proposições* e a relação entre elas utilizando conectores lógicos. Tambem é chamada de Lógica de grau zero.
 ## Três principios
 - Principio da não contradição: Não pode ser falso e verdadeiro ao mesmo tempo
-- Principio do terceiro excluido: Não existe outra probabilidade a não ser Falso e Verdadeiro
+- Principio do terceiro excluido: Não existe outra probabilidade a não ser Falso e Verdadeiro (Não é um principio em lógica intuicionista. Não tem como sair de um dado falso a um dado verdadeiro)
 - Principio da identidade: Para todo A, A é A
 
 ---
@@ -12,7 +12,7 @@
 
 - **Disjunção**: $\lor$ =  
 	- **Disjunção inclusiva:** True e True é True 
-	- **Disjunção exclusiva  $\oplus$ :** True e True é False (XOR) 
+	- **Disjunção exclusiva:**  ( $\oplus$ ) True e True é False (XOR) 
 - **Não**: $\lnot$ = Negação
 	- **De re**: Da coisa "O maior numero primo **não** é par" (Proposição com objeto negado). Nos comprometemos com a existência do maior numero primo em De re
 	- **De dicto**: Da proposição "**Não é o caso que** o maior numero primo é par". Em De Dicto não nos comprometemos com a exitencia do maior numero primo.
@@ -23,7 +23,7 @@
 		- **Consequente** - Vem depois da seta 
 	- **Tautologia**: Verdade lógica
 	- **Causalidade**: Entre antecedente e consequente
-	- **Implicação semântica**: `Fulano é casad*o* então ele é homem`
+	- **Implicação semântica**: `Fulano é casado então ele é homem`
 
 - **Bicondicional**: $\leftrightarrow$ = Caso os dois sejam verdadeiros ou caso os dois sejam falsos a bicondicional é verdadeira.
 	-  $P \leftrightarrow Q \equiv \lnot(P \oplus Q)$ 
@@ -48,9 +48,11 @@
 
 ## Tautologia, contigência e contradição
 
-- *Tautologia:* Só é uma tautologia se todas as interpretações de uma formula é verdadeira ex: $P \lor \lnot P$
-- *Contradiçao*: Só é uma contradição se todas interpretadores de uma formula são falsas ex: $P \land \lnot P$
-- *Contingência*: Pelo menos um verdadeiro e um falso $P \implies Q$
+- **Tautologia:** Só é uma tautologia se todas as interpretações de uma formula é verdadeira ex: $P \lor \lnot P$
+- **Contradição**: Só é uma contradição se todas interpretadores de uma formula são falsas ex: $P \land \lnot P$
+- **Contingência**: Pelo menos um verdadeiro e um falso $P \implies Q$
+
+---
 
 ## Regras de inferencia
 
@@ -85,7 +87,7 @@
 - Definição da bi-condicional
 	1. $P \leftrightarrow Q$
 	2. $P \implies Q$
-	3. $Q \implies Q$
+	3. $Q \implies P$
 ## Derivações
 - Prova condicional
 	1. P

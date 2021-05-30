@@ -1,8 +1,8 @@
-# Introdução
+# Introdução a lógica
 
 **Processo de inferência** = Raciocínio.
 
-**Lógica classica:**  Lógica de primeira ordem
+**Lógica classica:** [[Lógica proposicional]] e [[Lógica de primeira ordem]]
 **Lógicas não classicas: **
 - Ampliativas:
 	- Lógica imperativa

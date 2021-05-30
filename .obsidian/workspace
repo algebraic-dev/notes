@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7a30ff470c1cc00c",
+        "id": "e56762c3b2178ab2",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Agendamento de tarefas e Firewall.md",
+            "file": "Matemática/Lógica/Calculo Lambda/Calculo Lambda Não Tipado.md",
             "mode": "preview"
           }
         }
@@ -53,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 323
   },
   "right": {
     "id": "7d163591a3ca8cc0",
@@ -69,11 +68,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Agendamento de tarefas e Firewall.md",
+                "file": "Matemática/Lógica/Calculo Lambda/Calculo Lambda Não Tipado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": true,
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -86,23 +87,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 395,
     "collapsed": true
   },
+  "active": "e56762c3b2178ab2",
   "lastOpenFiles": [
-    "Linux/Agendamento de tarefas e Firewall.md",
-    "Untitled.md",
-    "Linux/Volume.md",
-    "Linux/Sudo.md",
-    "Linux/Arquivos.md",
-    "Outros/Big Data.md",
-    "Outros/Industria 4.0.md",
-    "Programação/Estruturas de dados/Listas Encadeadas.md",
-    "Programação/Ocaml/PPX.md",
-    "Lógica/Leis de De Morgan.md"
+    "Matemática/Lógica/Calculo Lambda/Calculo Lambda Não Tipado.md",
+    "Matemática/Lógica/Calculo Lambda/Cálculo Lambda Simplesmente tipado.md",
+    "Programação/React/Hooks.md",
+    "Programação/React/Introdução React.md",
+    "Matemática/Lógica/Classica/Lógica de primeira ordem.md",
+    "Matemática/Lógica/Classica/Lógica proposicional.md",
+    "Matemática/Lógica/Classica/Leis de De Morgan.md",
+    "Matemática/Lógica/Classica/Lógica de ordem superior.md",
+    "Programação/Separation of concerns.md",
+    "Untitled.md"
   ]
 }

@@ -1,4 +1,5 @@
 # Circuitos digitais
+Utiliza de varios operadores da [[Lógica proposicional]]
 
 ### Lógica digital e as [[Leis de De Morgan]]
 A notação de OU viram + e a notação de E vira $\cdot$ 

@@ -7,7 +7,7 @@ Pagina 9 do capitulo 1
 *Aplicação* :   `(λx . x²+1) 3` 
 
 ### Redução e Conversão
-*redução β*: Substituição definido normalmente por `M[x := N]` que significa "M em que N foi substituido por x"
+**redução β**: Substituição definido normalmente por `M[x := N]` que significa "M em que N foi substituido por x"
 
 ### Elementos
 *$‘M \equiv N’$* : Significa que o termo  λ M e N são identicos
@@ -46,6 +46,10 @@ Exemplo de uma redução de 1 passo:
 $$((\lambda x. M) N) \rightarrow _\beta (M[x := N])$$
 
 Um redex(reducible expression) é uma expressão que pode ser aplicada intermediariamente por exemplo: $(\lambda y.y)z$ que pode virar $(y[y:=z])$
+
+### Redução $\zeta$
+
+Se a expressão delega uma chamada de função tipo $\lambda x. (e x)$ então podemos transformar em $e$ caso $x \not \in FV(e)$
 
 ### Convenção de Barendregt 
 "Nós escolhemos os nomes das variáveis vinculantes em um termo lambda de uma maneira que eles são todos diferentes, e que cada um deles seja diferente de todas a variáveis livres que ocorrem em um termo" Por exemplo, $(\lambda xy.xz)(\lambda xz.z)$ está incorreto e devemos utilizar $(\lambda xy.xz)(\lambda uv.v)$.
