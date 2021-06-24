@@ -1,6 +1,7 @@
 
 # Arquiteturas
-### Arquitetura de Von Neuman
+
+### Arquitetura de Von Neuman 
 
 - Processador ( ALU e Afins )
 - Memoria 
