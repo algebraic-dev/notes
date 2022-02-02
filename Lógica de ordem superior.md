@@ -1,3 +1,0 @@
-# Lógica de ordem superior
-Abstrai sobre [[Lógica de primeira ordem]] onde todos os predicados(que são como funções que geram proposições) são abstraidas em uma ordem maior. Ou seja, "meta predicados" são como funções que geram predicados. 
-Por exemplo: $\Gamma(P) = \exists x.\ que\ x\ é\ uma\ pessoa\ que\ P(x)$. Nesse exemplo, $\Gamma(P)$ é um second-order predicate porque ele atua sobre $P$ que é um predicado de primeira ordem.

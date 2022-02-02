@@ -1,0 +1,2 @@
+# Hom-set
+A hom-set is a set of morphism from an object a to an object b in a [[Category]] C so it's written as *C(a,b)* so a set *C(a,a)* has only one morphism from a to a that is the identity morphism.

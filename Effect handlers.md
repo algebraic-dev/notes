@@ -1,2 +1,0 @@
-# Effect handlers
-Um bom exemplo de effect handler simples são _exception handlers_.  Vamos começar considerando um conjunto finito de excessões chamado __exn__. Computações que retornam valores do conjunto A são elementos modelados para a monad de excessões $T\ A \stackrel{def}{=} T + exn$

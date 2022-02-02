@@ -1,0 +1,2 @@
+# Bottom
+Bottom type cannot be instantiated so, as types are equivalent to propositions by the Curry Howard Isomorphism, we should consider the bottom type as Falsity and absurd as "ex falso sequitur quodlibet"  (Principle of explosion)

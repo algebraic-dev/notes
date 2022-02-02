@@ -1,0 +1,2 @@
+# Orders
+- *Preorder category*: The category that each morphism express relations of being less or equal. This category have an identity morphism (every object is less or equal than itself) and the composition of morphisms are also true because "<=" is associative. Also, the less or equal operator is reflexive so it's algo a *partial order*. As it has one morphism between two objects, it can be classified as a [[Thin Category]].

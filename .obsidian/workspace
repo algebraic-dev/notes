@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "696d0250d79c5722",
+    "id": "25257815eadbce7a",
     "type": "split",
     "children": [
       {
-        "id": "e56762c3b2178ab2",
+        "id": "5498bc151628e084",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -74,14 +74,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "60542456eb297879",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       }
@@ -90,17 +82,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "e56762c3b2178ab2",
+  "active": "5498bc151628e084",
   "lastOpenFiles": [
-    "Outros/Entrevistas.md",
-    "Untitled.md",
-    "Programação/HTTP 1.1 RFC.md",
-    "Programação/Compiladores.md",
-    "Matemática/Lógica/Teoria de Categorias.md",
-    "Programação/Haskell/Introdução a Haskell.md",
-    "Hardware/Arquiteturas.md",
-    "Matemática/Lógica/Classica/Lógica de ordem superior.md",
-    "Matemática/Lógica/Calculo Lambda/Cálculo Lambda Simplesmente tipado.md",
-    "Programação/Effect handlers.md"
+    "2022-02-02.md",
+    "Diary/Books.md",
+    "Category Theory/F-Algebra.md",
+    "Semantics.md",
+    "Images/Monoid.png",
+    "Category Theory/Hask.md",
+    "Category Theory/Hom-set.md",
+    "Category Theory/Category.md",
+    "Category Theory/Free Category.md",
+    "Category Theory/Kleisli Categories.md"
   ]
 }
